@@ -1,0 +1,14 @@
+﻿  Alien.cpp
+  character.cpp
+  GameStructure.cpp
+C:\Users\Terio\source\repos\Pirates vs Ninjas\Pirates vs Ninjas\GameStructure.h(13,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Terio\source\repos\Pirates vs Ninjas\Pirates vs Ninjas\GameStructure.h(23,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ninja.cpp
+  Pirate.cpp
+  Pirates vs Ninjas.cpp
+C:\Users\Terio\source\repos\Pirates vs Ninjas\Pirates vs Ninjas\GameStructure.h(13,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Terio\source\repos\Pirates vs Ninjas\Pirates vs Ninjas\GameStructure.h(23,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Terio\source\repos\Pirates vs Ninjas\Pirates vs Ninjas\Pirates vs Ninjas.cpp(21,6): warning C4101: 'EndGame': unreferenced local variable
+C:\Users\Terio\source\repos\Pirates vs Ninjas\Pirates vs Ninjas\Pirates vs Ninjas.cpp(92,16): warning C4101: 'GS': unreferenced local variable
+  Generating Code...
+  Pirates vs Ninjas.vcxproj -> C:\Users\Terio\source\repos\Pirates vs Ninjas\x64\Debug\Pirates vs Ninjas.exe
